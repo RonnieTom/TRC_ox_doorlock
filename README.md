@@ -11,9 +11,9 @@ Docs：https://t-r-creation.gitbook.io/t-r-creation-docs
 tebex：https://t-r-creation.tebex.io/
 discord：https://discord.gg/FuEZtxMJ
 
-Translation can be done on the client side main.lua 284 lines and utils.lua 52 lines
+## Translation can be done on the client side main.lua 284 lines and utils.lua 52 lines
 
-###
+###-------------------------------------------------------------------------------------------
 ## Dependency Core
 
 Door management resource, with compatibility for ox_core, qb-core, and es_extended.  
