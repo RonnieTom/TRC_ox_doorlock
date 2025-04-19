@@ -7,6 +7,11 @@ This is my modified ox_doorlock. Suitable for text role playing and serious role
 I will update the door breaking function and other more realistic ox_doorlock versions in the future
 
 youtube:https://youtu.be/-pawmGsctq0
+Docs：https://t-r-creation.gitbook.io/t-r-creation-docs
+tebex：https://t-r-creation.tebex.io/
+discord：https://discord.gg/FuEZtxMJ
+
+Translation can be done on the client side main.lua 284 lines and utils.lua 52 lines
 
 ###
 ## Dependency Core
