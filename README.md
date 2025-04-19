@@ -1,9 +1,10 @@
 # TRC_ox_doorlock
 
+This is my modified ox_doorlock. Suitable for text role playing and serious role playing servers.👍
+
 Door management resource, with compatibility for ox_core, qb-core, and es_extended.  
 Successor to nui_doorlock with less scuff and more stuff.
 
-_The UI needs to be built - use the [latest release](https://github.com/overextended/ox_doorlock/releases/latest/download/ox_doorlock.zip) if you want to drag-n-drop._
 
 ## Dependencies
 
