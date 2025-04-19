@@ -6,7 +6,7 @@ This is my modified ox_doorlock. Suitable for text role playing and serious role
 
 I will update the door breaking function and other more realistic ox_doorlock versions in the future
 
-
+###
 ## Dependency Core
 
 Door management resource, with compatibility for ox_core, qb-core, and es_extended.  
