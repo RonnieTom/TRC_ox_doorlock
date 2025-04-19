@@ -4,7 +4,10 @@ This is my modified ox_doorlock. Suitable for text role playing and serious role
 
 ![d7034919cd8818a47542663866b1b1a](https://github.com/user-attachments/assets/65751282-7d5b-4a8b-bc48-bc79a2ac6e06)
 
+I will update the door breaking function and other more realistic ox_doorlock versions in the future
 
+
+## Dependency Core
 
 Door management resource, with compatibility for ox_core, qb-core, and es_extended.  
 Successor to nui_doorlock with less scuff and more stuff.
